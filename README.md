@@ -30,7 +30,7 @@ Além disso, tenho experiência em análises de dados para **growth e marketing*
 ## Projetos de Estudo:
 
 ### Data Engineering
-* ELTL Dados Olis: [Projeto de Extração, Transformação, criação de datalake e warehouse](https://github.com/matheusbuniotto/projeto_olist_eng_dados) (em desenvolvimento)
+* ELTL Dados Olist: [Projeto de Extração, Transformação, criação de datalake e warehouse](https://github.com/matheusbuniotto/projeto_olist_eng_dados) (em desenvolvimento)
 
 ### Analytics 
 * Projeto de Conclusão de Curso PUC-MG: [Parte 1 - ETL](https://matheus-buniotto.medium.com/analisando-os-dados-do-olist-e-commerce-parte-1-510598430aa3)  | [Parte2 - Análise](https://matheus-buniotto.medium.com/an%C3%A1lise-explorat%C3%B3ria-de-dados-eda-e-commerce-olist-e0e7031b4e93) 
