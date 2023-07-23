@@ -35,8 +35,8 @@
 ### Analytics 
 * Projeto de Conclusão de Curso PUC-MG: [Parte 1 - ETL](https://matheus-buniotto.medium.com/analisando-os-dados-do-olist-e-commerce-parte-1-510598430aa3)  | [Parte2 - Análise](https://matheus-buniotto.medium.com/an%C3%A1lise-explorat%C3%B3ria-de-dados-eda-e-commerce-olist-e0e7031b4e93) 
 
-* Análise da cidade de Roma: [Projeto - Roma](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Analisando%20os%20Dados%20do%20Airbnb%20Roma.ipynb) | [Artigo](https://matheus-buniotto.medium.com/an%C3%A1lise-dos-dados-airbnb-roma-e2133437f09e)
 * Análise da criminalidade no Rio de Janeiro: [Projeto - Criminalidade no RJ](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) | [Artigo](https://matheus-buniotto.medium.com/viol%C3%AAncia-no-rio-de-janeiro-an%C3%A1lise-dos-dados-24b94e6edb94)
+* 
 * Análise Exploratória Covid-19: [Projeto - Covid-19](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Projeto_Panorama_da_Covid_19.ipynb) | [Artigo](https://matheus-buniotto.medium.com/an%C3%A1lise-de-dados-covid-19-26cafa71f3b8)
 * Artigo : [Análise do interesse em parques temáticos no Brasil (PT) ](https://matheus-buniotto.medium.com/o-interesse-por-parques-tem%C3%A1ticos-no-brasil-durante-a-pandemia-61982dc84e30) | [Artigo em Inglês](https://matheus-buniotto.medium.com/the-interest-in-theme-parks-in-brazil-during-a-pandemic-ffbdc17d715)
 
