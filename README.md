@@ -63,7 +63,7 @@ Airflow Fundamentals - [Visualizar](https://www.credly.com/badges/00ff94ff-accb-
 Product Analytics Micro-Certification - [Visualizar](https://drive.google.com/file/d/1eCNDPvy3MlcHCRhDnqKWSbnhtnDdS9oW/view)\
 dbt Fundamentals - [Visualizar](https://www.credential.net/294506fc-40d1-4590-adb9-fc67931f3886)\
 Google Analytics Individual Qualification - [Visualizar](https://skillshop.exceedlms.com/student/award/X8MGeFYAgfFAxAwh9VRYouE3)\
-Google Ads Measurement Certification - [Visualizar](https://skillshop.exceedlms.com/student/award/922AsswB5EHDkwasUtVWngtk)\
+Google Ads Measurement Certification - [Visualizar](https://skillshop.exceedlms.com/student/award/922AsswB5EHDkwasUtVWngtk)
 
 ### Atualmente Estudando:
 🌱 Orquestração
