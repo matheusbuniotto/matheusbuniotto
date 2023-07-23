@@ -1,4 +1,4 @@
- 👋 Oi, eu sou o Matheus!
+ 👋 Oi, eu sou o Matheus!\
  **Background:** Marketing / Produto / Dados
  
 📊 Atualmente trabalho como Analista de Dados/BI com foco em **análises de produto**, especialmente discovery. Algumas atividades do meu dia envolvem:
