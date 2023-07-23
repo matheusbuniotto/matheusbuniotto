@@ -69,7 +69,7 @@ Google Ads Measurement Certification - [Visualizar](https://skillshop.exceedlms.
 🌱 Orquestração
 🌱 Modelos de Imagem e LLM
 🌱 Causalidade
-🎤 Comunicação e oratória
+
 
 **📫 Contato:**
 * [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
