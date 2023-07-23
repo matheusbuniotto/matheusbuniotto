@@ -59,8 +59,8 @@ Além disso, tenho experiência em análises de dados para **growth e marketing*
 [Estudos](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification)
 
 ## Certificados Gerais
-Airflow Fundamentals - [Visualizar](https://www.credly.com/badges/00ff94ff-accb-4888-ace1-2eaea8c3fdcb/public_url)
-Product Analytics Micro-Certification - [Visualizar](https://drive.google.com/file/d/1eCNDPvy3MlcHCRhDnqKWSbnhtnDdS9oW/view)
+Airflow Fundamentals - [Visualizar](https://www.credly.com/badges/00ff94ff-accb-4888-ace1-2eaea8c3fdcb/public_url)\
+Product Analytics Micro-Certification - [Visualizar](https://drive.google.com/file/d/1eCNDPvy3MlcHCRhDnqKWSbnhtnDdS9oW/view)\n
 dbt Fundamentals - [Visualizar](https://www.credential.net/294506fc-40d1-4590-adb9-fc67931f3886)
 Google Analytics Individual Qualification - [Visualizar](https://skillshop.exceedlms.com/student/award/X8MGeFYAgfFAxAwh9VRYouE3)
 Google Ads Measurement Certification - [Visualizar](https://skillshop.exceedlms.com/student/award/922AsswB5EHDkwasUtVWngtk)
