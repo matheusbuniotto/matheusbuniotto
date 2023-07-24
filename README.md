@@ -5,7 +5,7 @@
 - Análise de grande volume de dados com SQL, Python, PySpark e/ou Spark Scala
 - Análise de testes AB
 - Modelagem de experimentos
-- Criação de ETL para novas fontes de dados
+- ETL para novas fontes de dados
 - Criação e manutenção de dashboards
 - Levantamento de requesitos e propostas de modelagens para novas tabelas no banco de dados
 - Estruturar e acompanhar novos KPIs
