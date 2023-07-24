@@ -66,6 +66,7 @@ Google Analytics Individual Qualification - [Visualizar](https://skillshop.excee
 Google Ads Measurement Certification - [Visualizar](https://skillshop.exceedlms.com/student/award/922AsswB5EHDkwasUtVWngtk)
 
 ### Atualmente Estudando:
+🌱 Curso Google Advanced Analytics 
 🌱 Orquestração
 🌱 Modelos de Imagem e LLM
 🌱 Causalidade
