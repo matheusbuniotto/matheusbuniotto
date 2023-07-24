@@ -1,7 +1,7 @@
  👋 Oi, eu sou o Matheus!\
  **Background:** Marketing / Produto / Dados
  
-📊 Atualmente trabalho como Analista de Dados/BI com foco em **análises de produto**, especialmente discovery. Algumas atividades do meu dia envolvem:
+📊 Atualmente trabalho como Analista de BI/Dados com foco em **análises de produto** e **analytics engineering**. Algumas atividades do meu dia envolvem:
 - Análise de grande volume de dados com SQL, Python, PySpark e/ou Spark Scala
 - Análise de testes AB
 - Modelagem de experimentos
