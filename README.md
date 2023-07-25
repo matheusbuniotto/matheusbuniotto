@@ -26,8 +26,8 @@
 - GA4
 
 ## Experiência profissional
-1 ano e 5 meses como Analista de Dados/BI @ Elo7
-1 ano como Analista de Performance @ Elo7 
+1 ano e 5 meses como Analista de Dados/BI @ Elo7 \
+1 ano como Analista de Performance @ Elo7 \
 4 anos como Analista de Marketing digital @ Hot Beach Parque & Resorts 
 
 
