@@ -25,6 +25,12 @@
 - BigQuery
 - GA4
 
+## Experiência profissional
+1 ano e 5 meses como Analista de Dados/BI @ Elo7
+1 ano como Analista de Performance @ Elo7 
+4 anos como Analista de Marketing digital @ Hot Beach Parque & Resorts 
+
+
 📫 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
 
 ## Projetos de Estudo:
@@ -33,7 +39,9 @@
 * ELTL Dados Olist: [Projeto de Extração, Transformação, criação de datalake e warehouse](https://github.com/matheusbuniotto/projeto_olist_eng_dados) (em desenvolvimento)
 
 ### Analytics 
-* Projeto de Conclusão de Curso PUC-MG: [Parte 1 - ETL](https://matheus-buniotto.medium.com/analisando-os-dados-do-olist-e-commerce-parte-1-510598430aa3)  | [Parte2 - Análise](https://matheus-buniotto.medium.com/an%C3%A1lise-explorat%C3%B3ria-de-dados-eda-e-commerce-olist-e0e7031b4e93) 
+* Projeto de Conclusão de Curso PUC-MG: [Parte 1 - ETL](https://matheus-buniotto.medium.com/analisando-os-dados-do-olist-e-commerce-parte-1-510598430aa3)  | [Parte2 - Análise](https://matheus-buniotto.medium.com/an%C3%A1lise-explorat%C3%B3ria-de-dados-eda-e-commerce-olist-e0e7031b4e93)
+
+* Análise de testes AB com Python: [Repositório](https://github.com/matheusbuniotto/ab-test-analytics)
 
 * Análise da criminalidade no Rio de Janeiro: [Projeto - Criminalidade no RJ](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) | [Artigo](https://matheus-buniotto.medium.com/viol%C3%AAncia-no-rio-de-janeiro-an%C3%A1lise-dos-dados-24b94e6edb94)
  
