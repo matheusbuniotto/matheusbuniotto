@@ -1,6 +1,7 @@
  👋 Oi, eu sou o Matheus!\
  **Background:** Marketing / Produto / Dados
- 
+📫 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
+
 📊 Atualmente trabalho como Analista de BI/Dados com foco em **análises de produto** e **analytics engineering**. Algumas atividades do meu dia envolvem:
 - Análise de grande volume de dados com SQL, Python, PySpark e/ou Spark Scala
 - Análise de testes AB
@@ -29,9 +30,6 @@
 1 ano e 5 meses como Analista de Dados/BI @ Elo7 \
 1 ano como Analista de Performance @ Elo7 \
 4 anos como Analista de Marketing digital @ Hot Beach Parque & Resorts 
-
-
-📫 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
 
 ## Projetos de Estudo:
 
@@ -77,6 +75,7 @@ Google Ads Measurement Certification - [Visualizar](https://skillshop.exceedlms.
 🌱 Orquestração
 🌱 Engenharia de dados
 🌱 Causalidade
+
 
 
 **📫 Contato:**
