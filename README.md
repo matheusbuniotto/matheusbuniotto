@@ -1,6 +1,8 @@
  👋 Oi, eu sou o Matheus!\
  **Background:** Marketing / Produto / Dados
+ 
 📫 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
+
 
 📊 Atualmente trabalho como Analista de BI/Dados com foco em **análises de produto** e **analytics engineering**. Algumas atividades do meu dia envolvem:
 - Análise de grande volume de dados com SQL, Python, PySpark e/ou Spark Scala
