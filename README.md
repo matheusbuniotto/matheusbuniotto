@@ -79,8 +79,8 @@ Google Ads Measurement Certification - [Visualizar](https://skillshop.exceedlms.
 🌱 Causalidade
 
 ### Coisas que eu amo
-🏋️ Aprender sobre musculação, nutrição e coisas relacionadas à saude
-🏋️ Aprender e realizar projetos sobre IA, dados e negócio
+🏋️ Aprender sobre musculação, nutrição e coisas relacionadas à saude\
+🏋️ Aprender e realizar projetos sobre IA, dados e negócio\
 🏋️ Análisar todos os dados da minha vida (finanças, academia, saúde...) 😂
 
 **📫 Contato:**
