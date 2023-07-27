@@ -14,9 +14,9 @@
 - Estruturar e acompanhar novos KPIs
 
 🚀 Além disso, tenho experiência em análises de dados para **growth e marketing** com foco em:
-- Análise de campanhas (ROI, CAC, CPO, Leads, DAU, MAU)
-- Testes de incrementalidade e lift
-- Automação de reports com Python
+- Análise de dados de campanhas (performance) (ROI, CAC, CPO, Leads)
+- Testes de incrementalidade 
+- Automação de reports e pipeline de dados com Python
 - Google Analytics e GA4
 - Propor e explorar novas oportunidades de desenvolvimento de campanhas e/ou produtos
 
