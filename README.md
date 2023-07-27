@@ -41,7 +41,7 @@
 ### Analytics 
 * Projeto de Conclusão de Curso PUC-MG: [Parte 1 - ETL](https://matheus-buniotto.medium.com/analisando-os-dados-do-olist-e-commerce-parte-1-510598430aa3)  | [Parte2 - Análise](https://matheus-buniotto.medium.com/an%C3%A1lise-explorat%C3%B3ria-de-dados-eda-e-commerce-olist-e0e7031b4e93)
 
-* Análise de testes AB com Python: [Repositório](https://github.com/matheusbuniotto/ab-test-analytics) (finalizando 🏃)
+* Análise de testes AB com Python: [Repositório](https://github.com/matheusbuniotto/ab-test-analytics)
 
 * Análise da criminalidade no Rio de Janeiro: [Repositório](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) | [Artigo](https://matheus-buniotto.medium.com/viol%C3%AAncia-no-rio-de-janeiro-an%C3%A1lise-dos-dados-24b94e6edb94)
  
