@@ -74,9 +74,8 @@ Google Ads Measurement Certification - [Visualizar](https://skillshop.exceedlms.
 
 ### Atualmente Estudando:
 🌱 Curso Google Advanced Analytics 
-🌱 Orquestração
-🌱 Engenharia de dados
-🌱 Causalidade
+🌱 Orquestração e Cloud
+🌱 Machine Learning e DS
 
 ### Coisas que eu amo
 🏋️ Aprender sobre musculação, nutrição e coisas relacionadas à saude\
