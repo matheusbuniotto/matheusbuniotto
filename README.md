@@ -70,7 +70,6 @@ Projeto semelhante ao meu TCC na PUC-MG, porém optei por refaze-lo aplicando tu
 
 ## Certificados Gerais
 Airflow Fundamentals - [Visualizar](https://www.credly.com/badges/00ff94ff-accb-4888-ace1-2eaea8c3fdcb/public_url)\
-Product Analytics Micro-Certification - [Visualizar](https://drive.google.com/file/d/1eCNDPvy3MlcHCRhDnqKWSbnhtnDdS9oW/view)\
 dbt Fundamentals - [Visualizar](https://www.credential.net/294506fc-40d1-4590-adb9-fc67931f3886)\
 Product Analytics Certification PAC- Product School [Visualizar](https://drive.google.com/file/d/1eCNDPvy3MlcHCRhDnqKWSbnhtnDdS9oW/view)\
 Power BI para Data Science - [Visualizar](https://drive.google.com/file/d/182GtVxHWkswGz9TXBmgXptqXbSZT2cPt/view?usp=sharing)\
