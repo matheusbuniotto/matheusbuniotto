@@ -32,7 +32,7 @@ Sou um profissional dedicado em aplicar minha paixão sobre dados para impulsion
 
 ## Experiência profissional
 1 ano e 5 meses como Analista de Dados/BI de Produto @ Elo7 \
-1 ano como Analista de Dados de Performance @ Elo7 \
+1 ano como Analista de Dados de Performance e Growth @ Elo7 \
 4 anos como Analista de Marketing digital @ Hot Beach Parque & Resorts 
 
 ## Projetos de Estudo:
