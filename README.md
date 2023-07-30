@@ -1,5 +1,6 @@
  👋 Oi, eu sou o Matheus!\
- **Background:** Marketing / Produto / Dados
+ **Especialidade:** Dados e BI
+ **Background:** Marketing e Produto
  
 📫 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
 
