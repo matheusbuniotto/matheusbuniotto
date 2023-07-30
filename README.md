@@ -15,7 +15,7 @@ Sou um profissional dedicado em aplicar minha paixão sobre dados para impulsion
 - Estruturar e acompanhar novos KPIs
 
 🚀 Além disso, tenho experiência em análises de dados para **growth e marketing** com foco em:
-- Análise de dados de campanhas (performance) (ROI, CAC, CPO, Leads)
+- Análise de dados e BI com foco em marketing (performance) (ROI, CAC, CPO, Leads)
 - Testes de incrementalidade 
 - Automação de reports e pipeline de dados com Python
 - Google Analytics e GA4
@@ -37,7 +37,7 @@ Sou um profissional dedicado em aplicar minha paixão sobre dados para impulsion
 ## Projetos de Estudo:
 
 ### Data Engineering
-Projeto semelhante ao meu TCC na PUC-MG, porém optei por refaze-lo aplicando tudo que aprendi após alguns anos de estudo e no mercado de trabalho. ELTL com orquestração.
+Projeto semelhante ao meu TCC na PUC-MG, porém optei por refaze-lo aplicando tudo que aprendi após alguns anos de estudo e no mercado de trabalho. ELTL com orquestração.\
 ⭐ ELTL Dados Olist: [Projeto de Extração, Transformação, criação de datalake e warehouse](https://github.com/matheusbuniotto/projeto_olist_eng_dados)
 
 ### Analytics 
