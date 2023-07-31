@@ -61,7 +61,7 @@ Projeto semelhante ao meu TCC na PUC-MG, porém optei por refaze-lo aplicando tu
 
 ## Experiência profissional
 1 ano e meio como Analista de Dados/BI de Produto @ Elo7 \
-1 ano como Analista de Dados de Performance e Growth @ Elo7 \
+1 ano como Analista de Dados/BI de Performance e Growth @ Elo7 \
 4 anos como Analista de Marketing @ Hot Beach Parque & Resorts 
 
 ## Certificado Profissional Análise de dados do Google
