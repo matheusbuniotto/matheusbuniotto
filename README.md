@@ -31,11 +31,6 @@ Sou um profissional dedicado em aplicar minha paixão sobre dados para impulsion
 - GA4
 - Spredsheets
 
-## Experiência profissional
-1 ano e 5 meses como Analista de Dados/BI de Produto @ Elo7 \
-1 ano como Analista de Dados de Performance e Growth @ Elo7 \
-4 anos como Analista de Marketing digital @ Hot Beach Parque & Resorts 
-
 ## Projetos de Estudo:
 
 ### Data Engineering
@@ -64,9 +59,13 @@ Projeto semelhante ao meu TCC na PUC-MG, porém optei por refaze-lo aplicando tu
 * Destaque Power Bi: [Dashboard Acidentes em Belo Horizonte](https://app.powerbi.com/view?r=eyJrIjoiOWYxNzliZDgtMjZjZC00NjhkLWJjNTQtNTFlYTM0NGM2OTAxIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9&pageName=ReportSection963661846c11d75c7999)
 
 
+## Experiência profissional
+1 ano e meio como Analista de Dados/BI de Produto @ Elo7 \
+1 ano como Analista de Dados de Performance e Growth @ Elo7 \
+4 anos como Analista de Marketing @ Hot Beach Parque & Resorts 
+
 ## Certificado Profissional Análise de dados do Google
 [Certificado](https://www.credly.com/badges/05d3d891-c278-44e6-9fc9-52c02c864b0a/public_url)
-
 [Estudos](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification)
 
 ## Certificados Gerais
