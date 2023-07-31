@@ -11,6 +11,7 @@ Sou um profissional dedicado em aplicar minha paixão sobre dados para impulsion
 - Análise de testes AB
 - Modelagem de experimentos
 - ETL para novas fontes de dados
+- Query e transformação de dados NoSQL em tabelas analíticas (BigQuery)
 - Criação e manutenção de dashboards
 - Levantamento de requesitos e propostas de modelagens para novas tabelas no banco de dados
 - Estruturar e acompanhar novos KPIs
