@@ -25,10 +25,11 @@ Sou um profissional dedicado em aplicar minha paixão sobre dados para impulsion
 🛠️ Para isso, uso algumas **ferramentas** como:
 - Python
 - SQL 
-- Tableau
+- Tableau ou PowerBI
 - PySpark ou Spark Scala
 - BigQuery
 - GA4
+- Spredsheets
 
 ## Experiência profissional
 1 ano e 5 meses como Analista de Dados/BI de Produto @ Elo7 \
@@ -39,7 +40,7 @@ Sou um profissional dedicado em aplicar minha paixão sobre dados para impulsion
 
 ### Data Engineering
 Projeto semelhante ao meu TCC na PUC-MG, porém optei por refaze-lo aplicando tudo que aprendi após alguns anos de estudo e no mercado de trabalho. ELTL com orquestração.\
-⭐ ELTL Dados Olist: [Projeto de Extração, Transformação, criação de datalake e warehouse com Docker, MySQL, SQL, Python e Orquestração com Mage](https://github.com/matheusbuniotto/projeto_olist_eng_dados)
+⭐ ELTL Dados Olist: [Projeto de Extração, Transformação, criação de datalake e warehouse com Docker, MySQL, SQL, Python e Orquestração com Mage](https://github.com/matheusbuniotto/projeto_olist_eng_dados) | [Artigo](https://medium.com/@matheus-buniotto/projeto-engenharia-de-dados-olist-com-mage-c202ebe5481)
 
 ### Analytics 
 * Projeto de Conclusão de Curso PUC-MG: [Parte 1 - ETL](https://matheus-buniotto.medium.com/analisando-os-dados-do-olist-e-commerce-parte-1-510598430aa3)  | [Parte2 - Análise](https://matheus-buniotto.medium.com/an%C3%A1lise-explorat%C3%B3ria-de-dados-eda-e-commerce-olist-e0e7031b4e93)
