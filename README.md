@@ -8,18 +8,17 @@ Sou um profissional dedicado em aplicar minha paixão sobre dados para impulsion
 
 📊 Atualmente trabalho como Analista de BI/Dados com foco em **análises de produto** e **analytics engineering**. Algumas atividades do meu dia envolvem:
 - Análise de grande volume de dados com SQL, Python, PySpark e/ou Spark Scala
-- Análise de testes AB
-- Modelagem de experimentos
-- ETL para novas fontes de dados
+- Análise de testes AB e modelagem de experimentos
+- ETL e pipeline de dados
 - Query e transformação de dados NoSQL em tabelas analíticas (BigQuery)
 - Criação e manutenção de dashboards
 - Levantamento de requesitos e propostas de modelagens para novas tabelas no banco de dados
 - Estruturar e acompanhar novos KPIs
 
 🚀 Além disso, tenho experiência em análises de dados para **growth e marketing** com foco em:
-- Análise de dados e BI com foco em marketing (performance) (ROI, CAC, CPO, Leads)
+- Análise de dados e BI com foco em marketing e growth (ROI, CAC, CPO, Leads)
 - Testes de incrementalidade 
-- Automação de reports e pipeline de dados com Python
+- Automação de reports e pipeline de dados com Python e SQL
 - Google Analytics e GA4
 - Propor e explorar novas oportunidades de desenvolvimento de campanhas e/ou produtos
 
@@ -27,7 +26,7 @@ Sou um profissional dedicado em aplicar minha paixão sobre dados para impulsion
 - Python
 - SQL 
 - Tableau ou PowerBI
-- PySpark ou Spark Scala
+- Spark (Scala e PySpark)
 - BigQuery
 - GA4
 - Spredsheets
