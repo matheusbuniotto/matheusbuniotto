@@ -12,7 +12,7 @@ Sou um profissional dedicado em aplicar minha paixão sobre dados para impulsion
 - ETL e pipeline de dados
 - Query e transformação de dados NoSQL em tabelas analíticas (BigQuery)
 - Criação e manutenção de dashboards
-- Levantamento de requesitos e propostas de modelagens para novas tabelas no banco de dados
+- Levantamento de requisitos e propostas de modelagens para novas tabelas no banco de dados
 - Estruturar e acompanhar novos KPIs
 
 🚀 Além disso, tenho experiência em análises de dados para **growth e marketing** com foco em:
@@ -82,7 +82,7 @@ Google Ads Measurement Certification - [Visualizar](https://skillshop.exceedlms.
 🌱 Machine Learning e DS
 
 ### Coisas que eu amo
-🏋️ Aprender sobre musculação, nutrição e coisas relacionadas à saude\
+🏋️ Aprender sobre musculação, nutrição e coisas relacionadas à saúde\
 🏋️ Aprender e realizar projetos sobre IA, dados e negócio\
 🏋️ Análisar todos os dados da minha vida (finanças, academia, saúde...) 😂
 
