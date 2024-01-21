@@ -6,7 +6,7 @@
 
 Sou um profissional dedicado em aplicar minha paixão sobre dados para impulsionar projetos relevantes, valorizando a colaboração e trabalhando em equipe. Minha experiência com produtos e marketing digital, aliada ao pensamento analítico e estratégico, me ajudam a desbravar dados na busca por insights valiosos. Sempre trago um toque de bom humor para criar um ambiente descontraído e positivo, acredito que um ambiente descontraído e positivo estimula a criatividade e torna o trabalho muito mais prazeroso. 
 
-📊 Atualmente trabalho como Analista de BI/Dados com foco em **análises de produto** e **analytics engineering**. Algumas atividades do meu dia envolvem:
+📊 Atualmente trabalho como Analista de Dados com foco em **análises de produto** e **growth**. Algumas atividades do meu dia envolvem:
 - Análise de grande volume de dados com SQL, Python, PySpark e/ou Spark Scala
 - Análise de testes AB e modelagem de experimentos
 - ETL e pipeline de dados
