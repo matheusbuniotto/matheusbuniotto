@@ -1,6 +1,6 @@
  👋 Oi, eu sou o Matheus!\
- **Especialidade:** Dados e BI
- **Background:** Marketing e Produto
+ **Trabalhando com:** Dados
+
  
 📫 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
 
@@ -60,8 +60,9 @@ Projeto semelhante ao meu TCC na PUC-MG, porém optei por refaze-lo aplicando tu
 
 
 ## Experiência profissional
-1 ano e meio como Analista de Dados/BI de Produto @ Elo7 \
-1 ano como Analista de Dados/BI de Performance e Growth @ Elo7 \
+~ Atualmente trabalhanod no Asaas - Tech Lead de dados
+~ 1 ano e meio como Analista de Dados de Produto @ Elo7 \
+~ 1 ano como Analista de Dados de Marketing e Growth @ Elo7 \
 4 anos como Analista de Marketing @ Hot Beach Parque & Resorts 
 
 ## Certificado Profissional Análise de dados do Google
