@@ -10,7 +10,7 @@ Acredito que dados + criatividade + um toque de bom humor = receita perfeita par
 
 🎯 Atualmente: Tech Lead de uma Squad de ML & IA Enablement - basicamente eu construo pontes entre o mundo dos dados e o mundo real dos negócios (alguém precisa traduzir o "tecnês" para os mortais 😄)
 
-####🛠️ O que eu ando fazendo por aí....
+#### 🛠️ O que eu ando fazendo por aí....
 
 #### 🤖 Domando a IA:
 Desenvolvendo soluções de IA (LLMs/SLMs) que resolvem problemas reais
