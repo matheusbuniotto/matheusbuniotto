@@ -6,21 +6,22 @@
 ### oi!
 
 Sou um explorador no mundo dados e IA que adora construir coisas e desbravar novas ideias! Neste GitHub você vai encontrar projetos que alimentam minha paixão por descobrir, aprender e criar soluções que realmente fazem sentido para mim.
-Acredito que dados + criatividade + um toque de bom humor = receita perfeita para o sucesso! 🚀
+Acredito que dados + criatividade + um toque de bom humor = receita perfeita para o sucesso!
 
 🎯 Atualmente: Tech Lead de uma Squad de ML & IA Enablement - basicamente eu construo pontes entre o mundo dos dados e o mundo real dos negócios (alguém precisa traduzir o "tecnês" para os mortais 😄)
-🛠️ O que eu ando fazendo por aí....
 
-🤖 Domando a IA:
+####🛠️ O que eu ando fazendo por aí....
+
+#### 🤖 Domando a IA:
 Desenvolvendo soluções de IA (LLMs/SLMs) que resolvem problemas reais
 Explorando as novidades e criando serviços com GenIA/LLMs
 Criando aplicações que automatizam tarefas chatas e deixam mais tempo para coisas legais
 
-🔬 Experimentando:
+#### 🔬 Experimentando:
 Testes A/B que vão além do básico (CUPED, diff-in-diff, bootstrap)
 Simulações para validar e testar algumas coisas legais!
 
-📊 Mergulhando fundo nos dados:
+#### 📊 Mergulhando fundo nos dados:
 SQL, Python, Spark... - meus companheiros de aventura
 Machine learning para classificar, agrupar e detectar anomalias
 Pipelines de dados que funcionam (na maioria das vezes 😅)
