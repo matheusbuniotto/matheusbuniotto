@@ -1,51 +1,133 @@
- 👋 Oi, eu sou o Matheus!\
- **Trabalhando com:** Data & IA
+# 🚀 Matheus Buniotto
 
- 
-📫 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
-### oi!
+**Builder | Learning by Doing | Always Experimenting**
 
-Sou um explorador no mundo dados e IA que adora construir coisas e desbravar novas ideias! Neste GitHub você vai encontrar projetos que alimentam minha paixão por descobrir, aprender e criar soluções que realmente fazem sentido para mim.
-Acredito que dados + criatividade + um toque de bom humor = receita perfeita para o sucesso!
+> "The best way to understand something is to build it. The best way to build something is to just start."
 
-🎯 Atualmente: Tech Lead de uma Squad de ML & IA Enablement - basicamente eu construo pontes entre o mundo dos dados e o mundo real dos negócios (alguém precisa traduzir o "tecnês" para os mortais 😄)
+---
 
-#### 🛠️ O que eu ando fazendo por aí....
+## 🎯 What I Do
 
-#### 🤖 Domando a IA:
-Desenvolvendo soluções de IA (LLMs/SLMs) que resolvem problemas reais
-Explorando as novidades e criando serviços com GenIA/LLMs
-Criando aplicações que automatizam tarefas chatas e deixam mais tempo para coisas legais
+I build **AI-powered systems, integrations, and tools**—usually trying something new in the process. Go, Python, TypeScript. Agents, APIs, data pipelines. If it needs to be built, I'm interested.
 
-#### 🔬 Experimentando:
-Testes A/B que vão além do básico (CUPED, diff-in-diff, bootstrap)
-Simulações para validar e testar algumas coisas legais!
+Right now obsessed with:
+- 🤖 **AI Agents** — Building intelligent systems that actually do useful things
+- 🔗 **Integrations** — Connecting disparate systems with elegant APIs
+- 📊 **Data & Analysis** — Finding insights in the noise
+- 🛠️ **Developer Tools** — Making other builders' lives easier
 
-#### 📊 Mergulhando fundo nos dados:
-SQL, Python, Spark... - meus companheiros de aventura
-Machine learning para classificar, agrupar e detectar anomalias
-Pipelines de dados que funcionam (na maioria das vezes 😅)
+---
 
-### Coisas que eu amo
-🏋️ Aprender sobre musculação, nutrição e coisas relacionadas à saúde\
-🏋️ Aprender e realizar projetos sobre IA, dados e negócio\
-🏋️ Análisar todos os dados da minha vida (finanças, academia, saúde...) 😂
+## 🔥 Recent Work
 
-**📫 Contato:**
-* [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
-* [Medium](https://matheus-buniotto.medium.com/)
-* matheus.buniotto@gmail.com
-<!--
-**matheusbuniotto/matheusbuniotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [`go-google-mcp`](https://github.com/matheusbuniotto/go-google-mcp)
+**Model Context Protocol (MCP) server for Google Workspace**
+Secure CRUD operations for Drive, Gmail, Calendar, Sheets, Docs, Tasks, and People via AI agents. Built in Go because speed matters when your agents are calling your APIs.
 
-Here are some ideas to get you started:
+```
+golang • mcp • google-workspace • ai-agent • integration • llm
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [`goAgent`](https://github.com/matheusbuniotto/goAgent)
+**Bare-bone AI Agent Framework in Go**
+A lean, focused implementation showing how to build agents with tool-use capabilities. No bloat. Just the essential patterns you need.
+
+```
+golang • ai-agent • agent-framework • tool-use • llm
+```
+
+### [`clustering_deputados`](https://github.com/matheusbuniotto/clustering_deputados)
+**Political Data Analysis & Clustering**
+Analyzing voting patterns and political structures through data. Real-world application of ML techniques on open political data.
+
+```
+python • data-analysis • data-science • clustering
+```
+
+### [`openwebui-tools`](https://github.com/matheusbuniotto/openwebui-tools)
+**WebUI Tool Integration Framework**
+Extending OpenWebUI with custom integrations and tools. Making AI interfaces more powerful.
+
+```
+python • webui • tools • integration • plugin
+```
+
+### [`horizonte-cli`](https://github.com/matheusbuniotto/horizonte-cli)
+**Terminal App for Goal Tracking**
+Personal productivity tool built in Python. Because sometimes the best apps are the ones you build for yourself first.
+
+```
+python • cli-tool • terminal • productivity
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Go • Python • TypeScript • Shell • HCL
+
+**Domains:**
+- **AI/ML:** LangGraph, Agents, RAG, LSTM, Vector DBs
+- **DevOps:** Terraform, LocalStack, AWS, Docker
+- **Data:** Pandas, Jupyter, dbt, Analytics Engineering
+- **APIs:** REST, GraphQL, MCP, gRPC concepts
+- **Web:** React, FastAPI, Node.js
+
+**Methodologies:**
+Learning by doing • Rapid experimentation • Build-first design • Iterative refinement
+
+---
+
+## 🧠 How I Work
+
+1. **See a problem** → Wonder how to solve it
+2. **Build a prototype** → Get hands dirty immediately
+3. **Break it** → Learn from the failures
+4. **Iterate** → Ship something useful
+5. **Repeat** → Always trying something new
+
+Not a "plan everything then execute" person. I'm a "start with a clear goal, adapt as you learn" builder.
+
+---
+
+## 🎨 Fun Facts
+
+- 🐹 Obsessed with building **CLI tools**—terminals are my canvas
+- 📚 Self-directed learner—each project is a learning lab
+- 🔄 Believe in **continuous experimentation**
+- 🌍 Working across **Go, Python, TypeScript** ecosystems
+- ⚡ Speed and clarity matter—in code and thinking
+- 🤝 Love integrating systems that weren't meant to talk to each other
+
+---
+
+## 📊 GitHub Stats
+
+- **14 Active Projects** (everything worth keeping)
+- **3 Languages** (Go, Python, TypeScript—polyglot by necessity)
+- **Diverse Focus** (Agents, Data, DevOps, Integration, Tools)
+- **Always Building** (Latest update: today)
+
+---
+
+## 🌐 Find Me
+
+- **GitHub:** You're here! 👋
+- **Interests:** AI Systems • API Design • Data Engineering • Developer Experience
+- **Status:** Always working on something interesting
+
+---
+
+## 🚀 Next?
+
+Curious about what I'm building? Check out the repos above or reach out. I'm always down to:
+- Discuss architecture decisions
+- Debug weird problems
+- Collaborate on interesting projects
+- Talk about building, shipping, and iterating
+
+---
+
+**Built with curiosity and shipped with enthusiasm** ✨
+
