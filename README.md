@@ -1,5 +1,3 @@
-# 🚀 Matheus Buniotto
-
 **Builder | Learning by Doing | Always Experimenting**
 
 > "The best way to understand something is to build it. The best way to build something is to just start."
