@@ -4,8 +4,6 @@
 
 > "The best way to understand something is to build it. The best way to build something is to just start."
 
----
-
 ## 🎯 What I Do
 
 I build **AI-powered systems, integrations, and tools**—usually trying something new in the process. Go, Python, TypeScript. Agents, APIs, data pipelines. If it needs to be built, I'm interested.
@@ -52,15 +50,13 @@ Extending OpenWebUI with custom integrations and tools. Making AI interfaces mor
 python • webui • tools • integration • plugin
 ```
 
-### [`horizonte-cli`](https://github.com/matheusbuniotto/horizonte-cli)
-**Terminal App for Goal Tracking**
-Personal productivity tool built in Python. Because sometimes the best apps are the ones you build for yourself first.
+### [`datathon-mlops-rh-ia`](https://github.com/matheusbuniotto/datathon-mlops-rh-ia)
+**MLOps Datathon: HR & AI**
+Real-world datathon project combining ML operations with human resources analytics. Practical end-to-end ML pipeline in a competitive setting.
 
 ```
-python • cli-tool • terminal • productivity
+python • mlops • machine-learning • datathon • data-science
 ```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -77,8 +73,6 @@ Go • Python • TypeScript • Shell • HCL
 **Methodologies:**
 Learning by doing • Rapid experimentation • Build-first design • Iterative refinement
 
----
-
 ## 🧠 How I Work
 
 1. **See a problem** → Wonder how to solve it
@@ -89,8 +83,6 @@ Learning by doing • Rapid experimentation • Build-first design • Iterative
 
 Not a "plan everything then execute" person. I'm a "start with a clear goal, adapt as you learn" builder.
 
----
-
 ## 🎨 Fun Facts
 
 - 🐹 Obsessed with building **CLI tools**—terminals are my canvas
@@ -100,7 +92,9 @@ Not a "plan everything then execute" person. I'm a "start with a clear goal, ada
 - ⚡ Speed and clarity matter—in code and thinking
 - 🤝 Love integrating systems that weren't meant to talk to each other
 
----
+## 🧪 Learning & Exploration
+
+A lot of my projects are just for **learning and fun**. I believe in shipping experimental work, diving into new tools, and seeing what sticks. Some repos are prototypes, some are learning labs, some turn into production systems. That's the builder way—you never know what'll spark the next big thing until you try it.
 
 ## 📊 GitHub Stats
 
@@ -109,15 +103,11 @@ Not a "plan everything then execute" person. I'm a "start with a clear goal, ada
 - **Diverse Focus** (Agents, Data, DevOps, Integration, Tools)
 - **Always Building** (Latest update: today)
 
----
-
 ## 🌐 Find Me
 
 - **GitHub:** You're here! 👋
 - **Interests:** AI Systems • API Design • Data Engineering • Developer Experience
 - **Status:** Always working on something interesting
-
----
 
 ## 🚀 Next?
 
@@ -126,8 +116,6 @@ Curious about what I'm building? Check out the repos above or reach out. I'm alw
 - Debug weird problems
 - Collaborate on interesting projects
 - Talk about building, shipping, and iterating
-
----
 
 **Built with curiosity and shipped with enthusiasm** ✨
 
