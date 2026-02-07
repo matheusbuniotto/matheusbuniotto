@@ -22,13 +22,13 @@ This profile is a collection of projects built for **fun and learning**. I’m a
 
 **The Data Foundation**
 *Years of experience in measurement and research.*
-* **A/B Testing & Statistics:** I don't guess; I test. My DNA is built on statistical validation.
+* **A/B Testing & Statistics:** I test and measure a lot of stuff on my life and on my work. My DNA is built on statistical validation.
 * **Python:** My native tongue for ML, data engineering, and rapid prototyping.
 * **SQL:** Fluent in data extraction, transformation, and large-scale analysis.
 
 **The Builder Frontier**
 *Moving into AI and systems programming.*
-* **AI Agents:** Designing autonomous systems focused on reliability and context.
+* **AI Agents:** Designing autonomous systems focused on reliability and context. Must for my personal use or exploration.
 * **Go:** Learning it because it’s fast and powerful for building robust system utilities.
 * **CLI & Automation:** I live in the terminal. If I can't script it, I probably don't want to do it.
 
@@ -37,17 +37,16 @@ This profile is a collection of projects built for **fun and learning**. I’m a
 ### How I Build
 1. **Curiosity:** "I wonder if I can build X or automate Y..."
 2. **Panic:** "I have absolutely no idea how to build X."
-3. **Action:** Dive into documentation, write bad code, and figure it out by doing.
-4. **Obsession:** Spend the next couple of weeks thinking about nothing else until it's finished.
-5. **Ship:** It's built. Now, what's next?
+3. **Action:** Dive into documentation, write bad code, ask claude and figure it out by doing.
+4. **Obsession:** Spend the next couple of weeks thinking about nothing else.
+5. **Ship:** It's built. Repeat the cycle.
 
 ---
 
 ### Random Packets
-* **Test Everything:** I trust data and prototypes over opinions.
+* **Test Everything:** I like to try new things and see how they perform.
 * **Always Learning:** If I haven't broken it yet, I haven't learned it.
-* **Open to Chaos:** Most of this is experimental. Feel free to break things with me.
-
+* **Open to Chaos:** Most of this is experimental work! 
 ---
 
 ### Let's Chat
