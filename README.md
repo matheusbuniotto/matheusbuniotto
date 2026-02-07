@@ -1,5 +1,3 @@
-# Matheus Buniotto
-
 **Builder | Explorer | Chronic Experimenter**
 
 I spent years deep in **Data Science and A/B Testing**, obsessing over statistics and user behavior. Now, I’m applying that experimental DNA to the **AI space** to build systems that actually solve problems.
