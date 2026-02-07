@@ -1,108 +1,53 @@
-**Builder | Learning by Doing | Always Experimenting**
+# Hi, I'm Matheus! 👋
 
-> "The best way to understand something is to build it. The best way to build something is to just start."
+> Building tools to make computers do the boring stuff.
 
-## 🎯 What I Do
+I'm a developer who learns by breaking things. I love **Go**, **Python**, and making **AI Agents** talk to APIs they probably shouldn't.
 
-I build **AI-powered systems, integrations, and tools**—usually trying something new in the process. Go, Python, SQL. Agents, APIs, data pipelines. If it needs to be built, I'm interested.
+Currently, I'm obsessed with the intersection of **CLI tools**, **LLMs**, and **System Integration**. If there's a way to automate it or wrap it in a TUI, I'm probably trying to build it.
 
-Right now obsessed with:
-- 🤖 **AI Agents** — Building intelligent systems that actually do useful things
-- 🔗 **Integrations** — Connecting disparate systems with elegant APIs
-- 📊 **Data & Analysis** — Finding insights in the noise
-- 🛠️ **Developer Tools** — Making other builders' lives easier
+---
 
-## 🔥 Recent Work
+### 🧪 The Lab (Current Experiments)
 
-### [`go-google-mcp`](https://github.com/matheusbuniotto/go-google-mcp)
-**Model Context Protocol (MCP) server for Google Workspace**
-Secure CRUD operations for Drive, Gmail, Calendar, Sheets, Docs, Tasks, and People via AI agents. Built in Go because speed matters when your agents are calling your APIs.
+| Project | The "Why" | Tech |
+| :--- | :--- | :--- |
+| 🤖 [**go-google-mcp**](https://github.com/matheusbuniotto/go-google-mcp) | Because I wanted my AI to manage my calendar. Use with caution. | `Go` `MCP` `Google Workspace` |
+| 🧠 [**goAgent**](https://github.com/matheusbuniotto/goAgent) | Built my own agent framework to see how the magic trick works. | `Go` `Agents` `Tool Use` |
+| 🔌 [**openwebui-tools**](https://github.com/matheusbuniotto/openwebui-tools) | Plugging new superpowers into OpenWebUI. | `Python` `WebUI` `Integrations` |
 
-```
-golang • mcp • google-workspace • ai-agent • integration • llm
-```
+---
 
-### [`goAgent`](https://github.com/matheusbuniotto/goAgent)
-**Bare-bone AI Agent Framework in Go**
-A lean, focused implementation showing how to build agents with tool-use capabilities. No bloat. Just the essential patterns you need.
+### 🛠️ The Toolkit
 
-```
-golang • ai-agent • agent-framework • tool-use • llm
-```
+**Languages I Speak:**
+- 🐍 **Python:** My native tongue. Great for data, ML, and glue code.
+- 🐹 **Go:** My current adventure. Loving the speed and the types.
+- 💾 **SQL:** The universal truth.
 
-### [`openwebui-tools`](https://github.com/matheusbuniotto/openwebui-tools)
-**WebUI Tool Integration Framework**
-Extending OpenWebUI with custom integrations and tools. Making AI interfaces more powerful.
+**Things I Poke At:**
+- **AI/ML:** LangGraph, RAG, Vector DBs (making data searchable).
+- **DevOps:** Terraform, Docker (making it run elsewhere).
+- **CLI:** I live in the terminal.
 
-```
-python • webui • tools • integration • plugin
-```
+---
 
-### [`datathon-mlops-rh-ia`](https://github.com/matheusbuniotto/datathon-mlops-rh-ia)
-**MLOps Datathon: HR & AI**
-Real-world datathon project combining ML operations with human resources analytics. Practical end-to-end ML pipeline in a competitive setting.
+### 🧠 How I Work
+1. **Curiosity:** "I wonder if I can build X..."
+2. **Panic:** "I have no idea how to build X."
+3. **Action:** Read docs, write bad code, refactor.
+4. **Ship:** It works! (Mostly.)
 
-```
-python • mlops • machine-learning • datathon • data-science
-```
+---
 
-### [`clustering_deputados`](https://github.com/matheusbuniotto/clustering_deputados)
-**Political Data Analysis & Clustering**
-Analyzing voting patterns and political structures through data. Real-world application of ML techniques on open political data.
+### ⚡ Random Packets
+- 🌍 I'm exploring the **Go** ecosystem deeply right now.
+- 🎨 I treat my terminal like a creative canvas.
+- 🤝 I believe software is better when it's open and shared.
 
-```
-python • data-analysis • data-science • clustering
-```
+---
 
-## 🛠️ Tech Stack
+### 📬 Let's Chat
+Grab a repo, steal some code, or [open an issue](https://github.com/matheusbuniotto/matheusbuniotto/issues) if you spot a bug (you will).
 
-**Languages:**
-Go (learning) • Python • SQL
-
-**Domains:**
-- **AI/ML:** LangGraph, Agents, RAG, Vector DBs
-- **Data:** Pandas, Jupyter, dbt, Analytics Engineering, SQL
-- **DevOps:** Terraform, LocalStack, AWS, Docker
-- **APIs:** REST, GraphQL, MCP, gRPC concepts
-
-**Methodologies:**
-Learning by doing • Rapid experimentation • Build-first design • Iterative refinement
-
-## 🧠 How I Work
-
-1. **See a problem** → Wonder how to solve it
-2. **Build a prototype** → Get hands dirty immediately
-3. **Break it** → Learn from the failures
-4. **Iterate** → Ship something useful
-5. **Repeat** → Always trying something new
-
-Not a "plan everything then execute" person. I'm a "start with a clear goal, adapt as you learn" builder.
-
-## 🎨 Fun Facts
-
-- 🐹 Obsessed with building **CLI tools**—terminals are my canvas
-- 📚 Self-directed learner—each project is a learning lab
-- 🔄 Believe in **continuous experimentation**
-- 🌍 Working across **Go, Python, SQL** ecosystems
-- ⚡ Speed and clarity matter—in code and thinking
-- 🤝 Love integrating systems that weren't meant to talk to each other
-
-## 🧪 Learning & Exploration
-
-A lot of my projects are just for **learning and fun**. I believe in shipping experimental work, diving into new tools, and seeing what sticks. Some repos are prototypes, some are learning labs, some turn into production systems. That's the builder way—you never know what'll spark the next big thing until you try it.
-
-## 🌐 Find Me
-
-- **GitHub:** You're here! 👋
-- **Interests:** AI Systems • API Design • Data Engineering • Developer Experience
-- **Status:** Always working on something interesting
-
-## 🚀 Next?
-
-Curious about what I'm building? Check out the repos above or reach out. I'm always down to:
-- Discuss architecture decisions
-- Debug weird problems
-- Collaborate on interesting projects
-- Talk about building, shipping, and iterating
-
-**Built with curiosity and shipped with enthusiasm** ✨
+⭐ *Built with curiosity and too much coffee.*
