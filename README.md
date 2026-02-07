@@ -1,55 +1,58 @@
-# Hi, I'm Matheus! 👋
+# Matheus Buniotto
 
-> Builder. Explorer. Chronic Experimenter.
+**Builder | Explorer | Chronic Experimenter**
 
-I spent years deep in **Data Science and A/B Testing**, obsessing over stats and user behavior. Now, I’m taking that experimental DNA and moving into **AI** to build stuff that actually *does* things.
+I spent years deep in **Data Science and A/B Testing**, obsessing over statistics and user behavior. Now, I’m applying that experimental DNA to the **AI space** to build systems that actually solve problems.
 
-**Fair warning:** This repo is mostly projects for **fun or learning**. I don't build to follow a "best practice" checklist—I'm a builder. I build because I'm curious, and I've got years of data experience to tell me if I'm full of shit or if I've actually made something better.
+This profile is a collection of projects built for **fun and learning**. I’m a builder by nature—I build because I’m curious, and I use my background in data to validate whether what I’ve built is actually useful or just a good theory.
 
 ---
 
-### 🧪 The Lab (Current Experiments & Highlights)
+### The Lab
+*Current experiments and highlighted work.*
 
-| Project | The "Why" | Tech |
+| Project | The "Why" | Tech Stack |
 | :--- | :--- | :--- |
-| 🛠️ [**context-kit**](https://github.com/matheusbuniotto/context-kit) | **Building right now.** Trying to give AI agents a better "memory" of project context. | `Go` `Git` |
-| 🤖 [**go-google-mcp**](https://github.com/matheusbuniotto/go-google-mcp) | Can I make an AI manage my life via Google Workspace? Let's find out. | `Go` `MCP` |
-| 🏆 [**datathon-mlops**](https://github.com/matheusbuniotto/datathon-mlops-rh-ia) | My data roots. Winning at MLOps by building robust pipelines. | `Python` `MLOps` |
-| 📊 [**clustering_deputados**](https://github.com/matheusbuniotto/clustering_deputados) | Turning messy political data into clusters because patterns are everywhere. | `Python` `ML` |
+| [**context-kit**](https://github.com/matheusbuniotto/context-kit) | **Active Development.** Bridging the gap between AI agents and project context. | Go, Git |
+| [**goAgent**](https://github.com/matheusbuniotto/goAgent) | A lean, bare-bones AI agent framework focused on tool-use patterns. | Go, LLMs |
+| [**go-google-mcp**](https://github.com/matheusbuniotto/go-google-mcp) | Testing the limits of Go and MCP by connecting AI to the Google ecosystem. | Go, MCP, Google API |
+| [**datathon-mlops**](https://github.com/matheusbuniotto/datathon-mlops-rh-ia) | A reminder of my data roots—winning by building robust ML pipelines. | Python, MLOps |
 
 ---
 
-### 🛠️ The Toolkit
+### The Toolkit
 
-**The Data Foundation:**
-- 📉 **A/B Testing & Stats:** Years of experience making sure I’m not just guessing.
-- 🐍 **Python:** My native tongue for ML, data, and messy research.
-- 💾 **SQL:** I’ve written enough queries to see them in my sleep.
+**The Data Foundation**
+*Years of experience in measurement and research.*
+* **A/B Testing & Statistics:** I don't guess; I test. My DNA is built on statistical validation.
+* **Python:** My native tongue for ML, data engineering, and rapid prototyping.
+* **SQL:** Fluent in data extraction, transformation, and large-scale analysis.
 
-**The Builder Frontier:**
-- 🤖 **AI Agents:** Exploring the intersection of LLMs and local context.
-- 🐹 **Go:** Learning it because it's fast and powerful as hell for building systems.
-- 🐚 **CLI:** I live in the terminal. If I can't script it, I probably don't want to do it.
+**The Builder Frontier**
+*Moving into AI and systems programming.*
+* **AI Agents:** Designing autonomous systems focused on reliability and context.
+* **Go:** Learning it because it’s fast and powerful for building robust system utilities.
+* **CLI & Automation:** I live in the terminal. If I can't script it, I probably don't want to do it.
 
 ---
 
-### 🧠 How I Build
-1. **Curiosity:** "I wonder if I can build X..."
+### How I Build
+1. **Curiosity:** "I wonder if I can build X or automate Y..."
 2. **Panic:** "I have absolutely no idea how to build X."
-3. **Action:** Dive into docs, write bad code, and figure it out by doing.
-4. **Obsession:** Spend the next couple of weeks thinking about nothing else until it's done.
+3. **Action:** Dive into documentation, write bad code, and figure it out by doing.
+4. **Obsession:** Spend the next couple of weeks thinking about nothing else until it's finished.
 5. **Ship:** It's built. Now, what's next?
 
 ---
 
-### ⚡ Random Packets
-- 🧪 **Test Everything:** I trust data and prototypes more than opinions.
-- 📚 **Always Learning:** If I haven't broken it yet, I haven't learned it.
-- 🤝 **Open to Chaos:** Most of this is experimental. Feel free to break things with me.
+### Random Packets
+* **Test Everything:** I trust data and prototypes over opinions.
+* **Always Learning:** If I haven't broken it yet, I haven't learned it.
+* **Open to Chaos:** Most of this is experimental. Feel free to break things with me.
 
 ---
 
-### 📬 Let's Chat
-Grab a repo, steal some code, or [open an issue](https://github.com/matheusbuniotto/matheusbuniotto/issues). I'm always down to talk about AI, data experiments, or why building things is the best way to learn.
+### Let's Chat
+Grab a repo, steal some code, or [open an issue](https://github.com/matheusbuniotto/matheusbuniotto/issues). I'm always down to talk about AI architecture, data experiments, or building cool stuff with Go.
 
-⭐ *Built with curiosity, data, and a healthy dose of trial and error.*
+*Built with curiosity, data, and a healthy dose of trial and error.*
