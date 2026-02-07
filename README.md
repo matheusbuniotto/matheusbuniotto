@@ -1,53 +1,55 @@
 # Hi, I'm Matheus! 👋
 
-> Building tools to make computers do the boring stuff.
+> Builder. Explorer. Chronic Experimenter.
 
-I'm a developer who learns by breaking things. I love **Go**, **Python**, and making **AI Agents** talk to APIs they probably shouldn't.
+I spent years deep in **Data Science and A/B Testing**, obsessing over stats and user behavior. Now, I’m taking that experimental DNA and moving into **AI** to build stuff that actually *does* things.
 
-Currently, I'm obsessed with the intersection of **CLI tools**, **LLMs**, and **System Integration**. If there's a way to automate it or wrap it in a TUI, I'm probably trying to build it.
+**Fair warning:** This repo is mostly projects for **fun or learning**. I don't build to follow a "best practice" checklist—I'm a builder. I build because I'm curious, and I've got years of data experience to tell me if I'm full of shit or if I've actually made something better.
 
 ---
 
-### 🧪 The Lab (Current Experiments)
+### 🧪 The Lab (Current Experiments & Highlights)
 
 | Project | The "Why" | Tech |
 | :--- | :--- | :--- |
-| 🤖 [**go-google-mcp**](https://github.com/matheusbuniotto/go-google-mcp) | Because I wanted my AI to manage my calendar. Use with caution. | `Go` `MCP` `Google Workspace` |
-| 🧠 [**goAgent**](https://github.com/matheusbuniotto/goAgent) | Built my own agent framework to see how the magic trick works. | `Go` `Agents` `Tool Use` |
-| 🔌 [**openwebui-tools**](https://github.com/matheusbuniotto/openwebui-tools) | Plugging new superpowers into OpenWebUI. | `Python` `WebUI` `Integrations` |
+| 🛠️ [**context-kit**](https://github.com/matheusbuniotto/context-kit) | **Building right now.** Trying to give AI agents a better "memory" of project context. | `Go` `Git` |
+| 🤖 [**go-google-mcp**](https://github.com/matheusbuniotto/go-google-mcp) | Can I make an AI manage my life via Google Workspace? Let's find out. | `Go` `MCP` |
+| 🏆 [**datathon-mlops**](https://github.com/matheusbuniotto/datathon-mlops-rh-ia) | My data roots. Winning at MLOps by building robust pipelines. | `Python` `MLOps` |
+| 📊 [**clustering_deputados**](https://github.com/matheusbuniotto/clustering_deputados) | Turning messy political data into clusters because patterns are everywhere. | `Python` `ML` |
 
 ---
 
 ### 🛠️ The Toolkit
 
-**Languages I Speak:**
-- 🐍 **Python:** My native tongue. Great for data, ML, and glue code.
-- 🐹 **Go:** My current adventure. Loving the speed and the types.
-- 💾 **SQL:** The universal truth.
+**The Data Foundation:**
+- 📉 **A/B Testing & Stats:** Years of experience making sure I’m not just guessing.
+- 🐍 **Python:** My native tongue for ML, data, and messy research.
+- 💾 **SQL:** I’ve written enough queries to see them in my sleep.
 
-**Things I Poke At:**
-- **AI/ML:** LangGraph, RAG, Vector DBs (making data searchable).
-- **DevOps:** Terraform, Docker (making it run elsewhere).
-- **CLI:** I live in the terminal.
+**The Builder Frontier:**
+- 🤖 **AI Agents:** Exploring the intersection of LLMs and local context.
+- 🐹 **Go:** Learning it because it's fast and powerful as hell for building systems.
+- 🐚 **CLI:** I live in the terminal. If I can't script it, I probably don't want to do it.
 
 ---
 
-### 🧠 How I Work
+### 🧠 How I Build
 1. **Curiosity:** "I wonder if I can build X..."
-2. **Panic:** "I have no idea how to build X."
-3. **Action:** Read docs, write bad code, refactor.
-4. **Ship:** It works! (Mostly.)
+2. **Panic:** "I have absolutely no idea how to build X."
+3. **Action:** Dive into docs, write bad code, and figure it out by doing.
+4. **Obsession:** Spend the next couple of weeks thinking about nothing else until it's done.
+5. **Ship:** It's built. Now, what's next?
 
 ---
 
 ### ⚡ Random Packets
-- 🌍 I'm exploring the **Go** ecosystem deeply right now.
-- 🎨 I treat my terminal like a creative canvas.
-- 🤝 I believe software is better when it's open and shared.
+- 🧪 **Test Everything:** I trust data and prototypes more than opinions.
+- 📚 **Always Learning:** If I haven't broken it yet, I haven't learned it.
+- 🤝 **Open to Chaos:** Most of this is experimental. Feel free to break things with me.
 
 ---
 
 ### 📬 Let's Chat
-Grab a repo, steal some code, or [open an issue](https://github.com/matheusbuniotto/matheusbuniotto/issues) if you spot a bug (you will).
+Grab a repo, steal some code, or [open an issue](https://github.com/matheusbuniotto/matheusbuniotto/issues). I'm always down to talk about AI, data experiments, or why building things is the best way to learn.
 
-⭐ *Built with curiosity and too much coffee.*
+⭐ *Built with curiosity, data, and a healthy dose of trial and error.*
