@@ -18,7 +18,7 @@ This profile is a collection of projects built for **fun and learning**. I’m a
 
 ---
 
-### The Toolkit
+### Tools
 
 **The Data Foundation**
 *Years of experience in measurement and research.*
@@ -49,7 +49,6 @@ This profile is a collection of projects built for **fun and learning**. I’m a
 * **Open to Chaos:** Most of this is experimental work! 
 ---
 
-### Let's Chat
-Grab a repo, steal some code, or [open an issue](https://github.com/matheusbuniotto/matheusbuniotto/issues). I'm always down to talk about AI architecture, data experiments, or building cool stuff with Go.
+I'm always down to talk about AI architecture, data experiments, or building cool stuff.
 
 *Built with curiosity, data, and a healthy dose of trial and error.*
