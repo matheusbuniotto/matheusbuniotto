@@ -12,8 +12,9 @@ This profile is a collection of projects built for **fun and learning**. I’m a
 | Project | The "Why" | Tech Stack |
 | :--- | :--- | :--- |
 | [**context-kit**](https://github.com/matheusbuniotto/context-kit) | **Active Development.** Bridging the gap between AI agents and project context. | Go, Git |
-| [**goAgent**](https://github.com/matheusbuniotto/goAgent) | A lean, bare-bones AI agent framework focused on tool-use patterns. Just trying go out| Go, LLMs |
+| [**openwebui-tools**](https://github.com/matheusbuniotto/openwebui-tools) | OpenWebUI Tools and features for workflows (> 1k downloads on community) | Pyhon, OpenWebUI, FOSS |
 | [**go-google-mcp**](https://github.com/matheusbuniotto/go-google-mcp) | Having some fun w/ Go and MCP by connecting AI to the Google ecosystem. | Go, MCP, Google API |
+| [**goAgent**](https://github.com/matheusbuniotto/goAgent) | A lean, bare-bones AI agent framework focused on tool-use patterns. Just trying go out| Go, LLMs |
 | [**datathon-mlops**](https://github.com/matheusbuniotto/datathon-mlops-rh-ia) | A reminder of my data roots by building robust ML pipelines. | Python, MLOps |
 
 ---
