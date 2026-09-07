@@ -1,11 +1,9 @@
-**Builder | Explorer | Chronic Experimenter** (for the good n the bad)
+### Matheus
 
-I spent years deep in **Data Science and A/B Testing**, obsessing over statistics and user behavior. Now, I’m applying that experimental DNA to the **AI space** to build systems that actually solve problems.
+I started out in marketing, consumer behavior, and product, trying to figure out why people actually do what they do. That dragged me into data science and experimentation to measure it, and eventually into software because I kept wanting to build the things myself.
 
-This profile is a collection of projects built for **fun and learning**. I’m a builder by nature—I build because I’m curious, and I use my background in data to validate whether what I’ve built is actually useful or just a good theory.
+Right now my focus is in AI engineering and enablement—building the tooling, evaluation loops, and agent harnesses that help me and others build with AI without things breaking in weird ways. I care less about clever prompts and more about whether a system is deterministic, measurable, and genuinely useful. When Python feels too loose or slow, I tinker with Go and Rust to see how lower-level systems fit together.
 
----
+For me, fun and growth are the point. I treat learning like progressive overload: pick something slightly outside my comfort zone, break it, figure out why it broke, and add a little more weight to the bar next time. Most repos here started as an itch I wanted to scratch or an idea I wanted to test with running code.
 
-I'm always down to talk about AI architecture, data experiments, or building cool stuff.
-
-*Built with curiosity, data, and a healthy dose of trial and error.*
+Always up for talking AI tooling, enablement, or weird engineering problems.
