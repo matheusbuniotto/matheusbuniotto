@@ -7,6 +7,7 @@ Right now my focus is in AI engineering and enablement—building the tooling, e
 For me, fun and growth are the point. I treat learning like progressive overload: pick something slightly outside my comfort zone, break it, figure out why it broke, and add a little more weight to the bar next time. Most repos here started as an itch I wanted to scratch or an idea I wanted to test with running code.
 
 A few recent builds:
+- **[ai-code-tutor-os](https://github.com/matheusbuniotto/ai-code-tutor-os)** — Personal AI coding tutor & cognitive harness. Pydantic-AI 2.0 multi-agent backend (A2A delegation + dynamic skills), hierarchical memory, and Tauri desktop shell.
 - **[claudegraph](https://github.com/matheusbuniotto/claudegraph)** — LangGraph-style state graphs for Claude Code. Turns advisory markdown instructions into strict state machines with enforced routing.
 - **[peer-ai](https://github.com/matheusbuniotto/peer-ai)** — An AI agent that designs and reviews A/B experiments the way a skeptical senior data scientist would, tested against simulated ground truth.
 - **[go-google-mcp](https://github.com/matheusbuniotto/go-google-mcp)** — Model Context Protocol (MCP) server in Go for Google Workspace.
